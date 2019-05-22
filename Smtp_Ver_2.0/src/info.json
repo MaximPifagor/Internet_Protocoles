@@ -1,0 +1,10 @@
+{
+  "server_host_name": "smtp.yandex.ru",
+  "server_port": 465,
+  "e-mail": "e-mail.txt",
+  "attachments_dir": "test",
+  "sender": "galimzyanovmax@yandex.ru",
+  "rcpt": "galimzyanovmax@yandex.ru",
+  "password": "",
+  "subject": "inter_prot"
+}
